@@ -1,0 +1,7 @@
+# MPDCoursework
+echo "# MPDCoursework" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/IanCampbell1/MPDCoursework.git
+git push -u origin master
